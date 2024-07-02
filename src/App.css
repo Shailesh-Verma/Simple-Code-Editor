@@ -33,6 +33,9 @@ pre {
   font-size: 14px;
   cursor: pointer;
   background-color: black;
-  color: white;
   margin-bottom: 32px;
+}
+a{
+  text-decoration: none;
+  color: white;
 }
